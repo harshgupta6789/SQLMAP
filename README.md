@@ -1,6 +1,6 @@
 # SQLMAP
 
-### Detection and Exploitation of Database Vulnerabilities
+### Detection And Exploitation Of Database Vulnerabilities
 
 SQL (structured query language) injection is a threat to the applications, which are web-based, mobile application and even desktop application, which are connected to the database. By implementing SQL injection, the attacker can gain full access to the application or database so that it can remove or change significant data irresponsibly. Applications that do not properly validate the user’s input make them vulnerable against SQL injection. SQL Injection Attacks (SQLIA) occurs when an attacker is able to insert a series of malicious SQL statements into a query through manipulating user input data for execution by the back-end database. Using this type of threats, applications could be hacked easily and steal confidential data by the attacker.
 
